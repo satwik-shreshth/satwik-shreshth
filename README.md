@@ -155,8 +155,7 @@
 ### 🔬 Research & Development
 **CSIR-CMERI** • *Present*
 
-- Working on **4G LTE Protocol-Based** communication system
-- On-board vehicle environmental monitoring
+- Working on **4G LTE Protocol-Based** communication system & On-board vehicle environmental monitoring
 - IoT-based sensor integration
 - Performance analysis and optimization
 
