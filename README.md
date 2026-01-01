@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-🎓 **MCA Final Year** at Sikkim University (CGPA: 8.25/10)  
+🎓 **MCA Final Year** at Sikkim University  
 🔬 **Currently Working On:** Development and Performance Analysis of 4G LTE Protocol-Based Communication System On-Board Vehicle for Monitoring Environment at **CSIR-CMERI**  
 💼 **Ex-Technical Representative** at C-DAC ATC Delhi  
 🛰️ **Remote Sensing & GIS Intern** at India Space Academy  
