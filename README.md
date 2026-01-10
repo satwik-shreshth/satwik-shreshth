@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Deep+Learning+%26+Computer+Vision;IoT+%26+Research+Development;Production-Ready+ML+Solutions)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satwik-shreshth-5310372b7/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://satwik-shreshth.github.io/Satwik-Portolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://satwik-shreshth.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satwikshreshth2002@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/satwik_shreshth)
 
@@ -281,7 +281,7 @@ mindmap
 ### 📫 Let's Connect and Build Something Amazing!
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satwik-shreshth)
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://satwik-shreshth.github.io/Satwik-Portolio/)
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://satwik-shreshth.github.io/)
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satwikshreshth2002@gmail.com)
 
 ---
