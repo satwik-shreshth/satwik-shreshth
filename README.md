@@ -1,295 +1,141 @@
 <div align="center">
-  
-# 👋 Hi, I'm Satwik Shreshth
 
-### Software Developer | Machine Learning Engineer | IoT & Research Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=200&section=header&text=Satwik%20Shreshth&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20Researcher%20%7C%20Embedded%20Systems%20%7C%20Geospatial%20AI&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Deep+Learning+%26+Computer+Vision;IoT+%26+Research+Development;Production-Ready+ML+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Machine+Learning+%2B+Embedded+Systems;Edge+AI+%26+Computer+Vision;Geospatial+Remote+Sensing;PhD+Aspirant+%7C+UGC-NET+Qualified)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satwik-shreshth-5310372b7/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://satwik-shreshth.github.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satwikshreshth2002@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/satwik_shreshth)
-
-![Profile Views](https://komarev.com/ghpvc/?username=satwik-shreshth&color=blueviolet&style=for-the-badge)
+<a href="https://satwik-shreshth.github.io/"><img src="https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" /></a>
+<a href="https://www.linkedin.com/in/satwik-shreshth-5310372b7/"><img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
+<a href="mailto:satwikshreshth2002@gmail.com"><img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
+<a href="https://www.kaggle.com/satwikshreshth01"><img src="https://img.shields.io/badge/Kaggle-0F2027?style=for-the-badge&logo=kaggle&logoColor=38BDF8" /></a>
+<a href="https://huggingface.co/satwikshreshth1"><img src="https://img.shields.io/badge/Hugging_Face-0F2027?style=for-the-badge&logo=huggingface&logoColor=38BDF8" /></a>
 
 </div>
 
----
-
-## 🚀 About Me
-
-🎓 **MCA Final Year** at Sikkim University  
-🔬 **Currently Working On:** Development and Performance Analysis of 4G LTE Protocol-Based Communication System On-Board Vehicle for Monitoring Environment at **CSIR-CMERI**  
-💼 **Ex-Technical Representative** at C-DAC ATC Delhi  
-🛰️ **Remote Sensing & GIS Intern** at India Space Academy  
-🌱 Passionate about **Machine Learning, IoT Systems, and Research & Development**  
-🎯 Actively seeking **ML Engineer Roles** and **R&D Opportunities**  
-💡 Building **data-driven solutions** that bridge theory with real-world applications
-
----
-
-## 🛠️ Tech Arsenal
-
-<details open>
-<summary><b>🔥 Core Technologies</b></summary>
 <br>
 
-**Programming Languages**
+## About
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+I'm an MCA graduate from **Sikkim University**, working at the intersection of **machine learning, edge AI, embedded systems, and geospatial remote sensing**. My research spans autonomous robotics, satellite image classification, medical imaging, and resource-constrained deep learning.
 
-**Web Technologies**
+I've qualified **UGC-NET (Computer Science & Applications)** and I'm currently pursuing **PhD admission** at Indian research institutions, alongside independent research projects released on GitHub, Kaggle, and Hugging Face.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-</details>
-
-<details open>
-<summary><b>🤖 Machine Learning & AI</b></summary>
 <br>
 
-**Frameworks & Libraries**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Data Science Tools**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🌍 Geospatial Technologies</b></summary>
-<br>
-
-![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-00897B?style=for-the-badge&logo=satellite&logoColor=white)
-
-**Specializations:** Satellite Image Analysis • Spectral Analysis • Land Cover Classification • Water Body Mapping
-
-</details>
-
-<details open>
-<summary><b>🗄️ Databases & Tools</b></summary>
-<br>
-
-**Databases**
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-**Developer Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-**IoT & Embedded Systems**
-
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-**Other Tools**
-
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-</details>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=satwik-shreshth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwik-shreshth&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satwik-shreshth&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
-
-### 🏆 Top Contributed Repositories
-  
-![](https://github-contributor-stats.vercel.app/api?username=satwik-shreshth&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-## 💼 Professional Experience
+## Featured Work
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔬 Research & Development
-**CSIR-CMERI** • *Present*
-
-- Working on **4G LTE Protocol-Based** communication system & On-board vehicle environmental monitoring
-- IoT-based sensor integration
-- Performance analysis and optimization
+**Autonomous Dual-Pi Environmental Robot**
+MCA dissertation project — YOLOv8n-seg path detection, PID control (Ziegler–Nichols tuned), Flask REST API with live MJPEG streaming, paired with an air-quality sensing unit.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏢 Technical Representative
-**C-DAC ATC Delhi** • *Feb 2024 - Aug 2024*
-
-- Managed systems for **10,000+ candidates**
-- Achieved **99.9% uptime** during national exams
-- Zero data loss across multiple exam centers
-- Real-time troubleshooting under strict SLAs
+**East Sikkim LULC Benchmark**
+22-model land-use/land-cover classification on Sentinel-1/2 + SRTM data. Random Forest topped the benchmark at 93.44% OA, Kappa 0.9206. Published on GitHub & Hugging Face.
 
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="50%" valign="top">
 
-### 🛰️ Remote Sensing & GIS Intern
-**India Space Academy** • *July 2025 - Aug 2025*
+**SAR Flood Segmentation (U-Net)**
+BCE + Dice loss segmentation pipeline on disk-based satellite image patches, trained across dual T4 GPUs.
 
-- Satellite image analysis & classification using ML algorithms
-- GIS-based preprocessing: radiometric correction, geometric transformation, spectral band analysis
-- Automated workflows reducing analysis time by **40%**
-- Environmental monitoring and resource management applications
+</td>
+<td width="50%" valign="top">
+
+**RSNA Pneumonia Detection**
+EfficientNet-B3 classifier with Grad-CAM validated against radiologist bounding boxes — a five-notebook pipeline from data prep to clinical reporting.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**TrustMedX**
+Clinical decision support system with uncertainty quantification and RAG-based explanation synthesis, deployed as a FastAPI service on Hugging Face Spaces.
+
+</td>
+<td width="50%" valign="top">
+
+**Tripathagamini-S Robot Series**
+Four-generation line-following robot progressing from camera-based navigation to hybrid ML + PID control at 100 Hz.
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## 🎓 Certifications & Learning
+## Tech Stack
 
 <div align="center">
 
-| 📜 Certification | 🏛️ Institution | ⏱️ Duration |
-|-----------------|----------------|------------|
-| **Computer Aided Decision Systems using Big Data Analytics** | NPTEL | 12 weeks |
-| **Ethical Hacking** | NPTEL | 12 weeks |
-| **Internet of Things** | NPTEL | 12 weeks |
+**Languages & Core**
+
+![Python](https://img.shields.io/badge/Python-0F2027?style=flat-square&logo=python&logoColor=38BDF8)
+![C++](https://img.shields.io/badge/C++-0F2027?style=flat-square&logo=cplusplus&logoColor=38BDF8)
+![C](https://img.shields.io/badge/C-0F2027?style=flat-square&logo=c&logoColor=38BDF8)
+![Java](https://img.shields.io/badge/Java-0F2027?style=flat-square&logo=openjdk&logoColor=38BDF8)
+
+**Machine Learning & Vision**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0F2027?style=flat-square&logo=pytorch&logoColor=38BDF8)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0F2027?style=flat-square&logo=tensorflow&logoColor=38BDF8)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-0F2027?style=flat-square&logo=scikitlearn&logoColor=38BDF8)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-0F2027?style=flat-square&logo=ultralytics&logoColor=38BDF8)
+![ONNX](https://img.shields.io/badge/ONNX-0F2027?style=flat-square&logo=onnx&logoColor=38BDF8)
+
+**Embedded & IoT**
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0F2027?style=flat-square&logo=raspberrypi&logoColor=38BDF8)
+![Arduino](https://img.shields.io/badge/Arduino-0F2027?style=flat-square&logo=arduino&logoColor=38BDF8)
+![ESP32](https://img.shields.io/badge/ESP32-0F2027?style=flat-square&logo=espressif&logoColor=38BDF8)
+
+**Geospatial**
+
+![Google Earth Engine](https://img.shields.io/badge/Earth_Engine-0F2027?style=flat-square&logo=googleearth&logoColor=38BDF8)
+![QGIS](https://img.shields.io/badge/QGIS-0F2027?style=flat-square&logo=qgis&logoColor=38BDF8)
+
+**Backend & Tools**
+
+![Flask](https://img.shields.io/badge/Flask-0F2027?style=flat-square&logo=flask&logoColor=38BDF8)
+![Docker](https://img.shields.io/badge/Docker-0F2027?style=flat-square&logo=docker&logoColor=38BDF8)
+![Git](https://img.shields.io/badge/Git-0F2027?style=flat-square&logo=git&logoColor=38BDF8)
+![LaTeX](https://img.shields.io/badge/LaTeX-0F2027?style=flat-square&logo=latex&logoColor=38BDF8)
 
 </div>
 
-**Key Topics Covered:** Decision Support Systems (DSS) • Network Security • Penetration Testing • IoT Architecture • Sensor Networks • Embedded Systems
+<br>
 
----
-
-## 🏆 Achievements & Leadership
+## GitHub Stats
 
 <div align="center">
-
-```mermaid
-graph LR
-    A[🎯 Team Representative] --> B[23rd National Youth Festival]
-    A --> C[National Integration Camp]
-    D[🎭 Cultural Committee] --> E[5+ Large-Scale Events]
-    F[🤝 NSS Volunteer] --> G[500+ Community Hours]
-    style A fill:#2E9EF7
-    style D fill:#2E9EF7
-    style F fill:#2E9EF7
-```
-
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=satwik-shreshth&show_icons=true&hide_border=true&theme=synthwave&bg_color=0F2027&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwik-shreshth&layout=compact&hide_border=true&theme=synthwave&bg_color=0F2027&title_color=38BDF8&text_color=c9d1d9" />
 </div>
 
-🏅 **Bihar Contingent Representative** at 23rd National Youth Festival, Lucknow (2020)  
-🎪 **Cultural Committee Member** at Sikkim University (SUSA)  
-🤝 **NSS Volunteer** with 500+ hours of community service and rural outreach
-
----
-
-## 📈 Contribution Graph
-
 <div align="center">
-
-[![Satwik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=satwik-shreshth&theme=tokyo-night&hide_border=true)](https://github.com/satwik-shreshth)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=satwik-shreshth&hide_border=true&theme=dark&background=0F2027&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
 </div>
 
----
+<br>
 
-## 🎯 Current Focus
+## Research Background
 
-```mermaid
-mindmap
-  root((Career Focus))
-    ML Engineer Roles
-      Deep Learning
-      Computer Vision
-      Model Deployment
-      Production Systems
-    IoT Development
-      Sensor Networks
-      Embedded Systems
-      Vehicle Monitoring
-      Environmental Sensing
-    Research & Development
-      4G LTE Protocols
-      Communication Systems
-      Performance Analysis
-      Innovation
-    Professional Growth
-      Technical Writing
-      Open Source Contribution
-      Research Publications
-```
+- MCA Dissertation research conducted at **CSIR-CMERI, Durgapur**
+- Remote Sensing & GIS training via the **India Space Academy** Summer Training Programme
+- UGC-NET qualified in Computer Science & Applications — eligible for PhD & Assistant Professorship
+- Actively pursuing PhD admission (target: IIT Guwahati CSE, backup: BHU), preparing for GATE
 
----
-
-## 💬 Fun Fact
+<br>
 
 <div align="center">
 
-> *"I once ensured 99.9% uptime for examination systems handling 10,000+ candidates simultaneously. Now I'm working on IoT-based vehicle monitoring systems and building ML solutions that analyze our world from space! 🛰️🚗"*
-
-</div>
-
----
-
-<div align="center">
-
-### 📫 Let's Connect and Build Something Amazing!
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satwik-shreshth)
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://satwik-shreshth.github.io/)
-[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satwikshreshth2002@gmail.com)
-
----
-
-### 💖 Thanks for visiting! Feel free to explore my repositories and don't forget to ⭐ your favorites!
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-*"Building the future through Machine Learning, IoT, and Research & Development"* 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
