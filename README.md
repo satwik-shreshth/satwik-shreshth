@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,50:2D00F7,75:0070F3,100:00DFD8&height=230&section=header&text=SATWIK%20SHRESHTH&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=MACHINE%20LEARNING%20%7C%20EDGE%20AI%20%7C%20EMBEDDED%20SYSTEMS%20%7C%20GEOSPATIAL%20AI&descAlignY=58&descSize=15&fontColorDesc=FFE8FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,50:2D00F7,75:0070F3,100:00DFD8&height=230&section=header&text=SATWIK%20SHRESHTH&fontSize=46&fontColor=1A1A2E&fontAlignY=38&animation=fadeIn&desc=MACHINE%20LEARNING%20%7C%20EDGE%20AI%20%7C%20EMBEDDED%20SYSTEMS%20%7C%20GEOSPATIAL%20AI&descAlignY=58&descSize=15&fontColorDesc=1A1A2E" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2600&pause=900&color=F72585,B5179E,7209B7,560BAD,480CA8,3A0CA3,3F37C9,4361EE,4895EF&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Building+Intelligent+Systems;Deep+Learning+%2B+Computer+Vision;Robotics+%26+Embedded+Engineering;Remote+Sensing+%2B+Geospatial+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2600&pause=900&color=1A1A2E,3A0CA3,560BAD,7209B7,3A0CA3,1A1A2E&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Building+Intelligent+Systems;Deep+Learning+%2B+Computer+Vision;Robotics+%26+Embedded+Engineering;Remote+Sensing+%2B+Geospatial+AI)](https://git.io/typing-svg)
 
 <a href="https://satwik-shreshth.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-FF0080?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/satwik-shreshth-5310372b7/"><img src="https://img.shields.io/badge/LINKEDIN-7928CA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -16,7 +16,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F72585,100:4361EE&height=55&section=header&text=ABOUT%20ME&fontSize=24&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F72585,100:4361EE&height=55&section=header&text=ABOUT%20ME&fontSize=24&fontColor=1A1A2E&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 ```yaml
 name: Satwik Shreshth
@@ -31,7 +31,7 @@ currently: Exploring intelligent systems at the intersection of AI and hardware
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4361EE,100:00DFD8&height=55&section=header&text=TECH%20STACK&fontSize=24&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4361EE,100:00DFD8&height=55&section=header&text=TECH%20STACK&fontSize=24&fontColor=1A1A2E&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -84,12 +84,12 @@ currently: Exploring intelligent systems at the intersection of AI and hardware
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00DFD8,100:F72585&height=55&section=header&text=GITHUB%20ANALYTICS&fontSize=24&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00DFD8,100:F72585&height=55&section=header&text=GITHUB%20ANALYTICS&fontSize=24&fontColor=1A1A2E&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=satwik-shreshth&show_icons=true&hide_border=true&theme=radical&bg_color=1a1a2e&title_color=F72585&icon_color=4CC9F0&text_color=e0e0e0" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwik-shreshth&layout=compact&hide_border=true&theme=radical&bg_color=1a1a2e&title_color=F72585&text_color=e0e0e0" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=satwik-shreshth&show_icons=true&hide_border=true&theme=radical&bg_color=1a1a2e&title_color=F72585&icon_color=4CC9F0&text_color=ffffff" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwik-shreshth&layout=compact&hide_border=true&theme=radical&bg_color=1a1a2e&title_color=F72585&text_color=ffffff" />
 
 <br>
 
@@ -103,24 +103,9 @@ currently: Exploring intelligent systems at the intersection of AI and hardware
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F72585,50:7209B7,100:4361EE&height=55&section=header&text=CONTRIBUTION%20SNAKE&fontSize=22&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn" width="100%"/>
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satwik-shreshth/satwik-shreshth/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/satwik-shreshth/satwik-shreshth/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-<sub>Animated contribution snake — generated via <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action. Runs automatically once a day.</sub>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4361EE,100:F72585&height=55&section=header&text=LET'S%20CONNECT&fontSize=24&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4361EE,100:F72585&height=55&section=header&text=LET'S%20CONNECT&fontSize=24&fontColor=1A1A2E&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <a href="https://www.linkedin.com/in/satwik-shreshth-5310372b7/"><img src="https://img.shields.io/badge/CONNECT-F72585?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://satwik-shreshth.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-7209B7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
