@@ -1,24 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B247A,50:1BCEDF,100:5B247A&height=220&section=header&text=Satwik%20Shreshth&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%7C%20Edge%20AI%20%7C%20Embedded%20Systems%20%7C%20Geospatial%20AI&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=200&section=header&text=SATWIK%20SHRESHTH&fontSize=44&fontColor=FFB800&fontAlignY=45&desc=MACHINE%20LEARNING%20%7C%20EDGE%20AI%20%7C%20EMBEDDED%20SYSTEMS%20%7C%20GEOSPATIAL%20AI&descAlignY=70&descSize=15&descAlign=50&fontColorDesc=FFB800" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=1000&color=1BCEDF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems;Deep+Learning+%2B+Computer+Vision;Robotics+%26+Embedded+Engineering;Remote+Sensing+%2B+Geospatial+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=1000&color=FFB800&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems;Deep+Learning+%2B+Computer+Vision;Robotics+%26+Embedded+Engineering;Remote+Sensing+%2B+Geospatial+AI)](https://git.io/typing-svg)
 
-<a href="https://satwik-shreshth.github.io/"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=1BCEDF" /></a>
-<a href="https://www.linkedin.com/in/satwik-shreshth-5310372b7/"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=1BCEDF" /></a>
-<a href="mailto:satwikshreshth2002@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=1BCEDF" /></a>
-<a href="https://www.kaggle.com/satwikshreshth01"><img src="https://img.shields.io/badge/Kaggle-1a1a2e?style=for-the-badge&logo=kaggle&logoColor=1BCEDF" /></a>
-<a href="https://huggingface.co/satwikshreshth1"><img src="https://img.shields.io/badge/Hugging_Face-1a1a2e?style=for-the-badge&logo=huggingface&logoColor=1BCEDF" /></a>
+<a href="https://satwik-shreshth.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=FFB800" /></a>
+<a href="https://www.linkedin.com/in/satwik-shreshth-5310372b7/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFB800" /></a>
+<a href="mailto:satwikshreshth2002@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFB800" /></a>
+<a href="https://www.kaggle.com/satwikshreshth01"><img src="https://img.shields.io/badge/KAGGLE-000000?style=for-the-badge&logo=kaggle&logoColor=FFB800" /></a>
+<a href="https://huggingface.co/satwikshreshth1"><img src="https://img.shields.io/badge/HUGGING_FACE-000000?style=for-the-badge&logo=huggingface&logoColor=FFB800" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=satwik-shreshth&label=Profile%20Views&color=1BCEDF&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=satwik-shreshth&label=PROFILE+VIEWS&color=000000&style=for-the-badge&labelColor=FFB800" />
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=1BCEDF&section=footer" width="100%"/>
-
-## ⚡ About Me
+## ⚡ ABOUT ME
 
 ```yaml
 name: Satwik Shreshth
@@ -33,7 +31,7 @@ currently: Exploring intelligent systems at the intersection of AI and hardware
 
 <br>
 
-## 🧠 Tech Stack
+## 🧠 TECH STACK
 
 <div align="center">
 
@@ -47,38 +45,38 @@ currently: Exploring intelligent systems at the intersection of AI and hardware
 <tr>
 <td valign="top" width="50%">
 
-### 🤖 Machine Learning
-![PyTorch](https://img.shields.io/badge/-PyTorch-1a1a2e?style=flat-square&logo=pytorch&logoColor=1BCEDF)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-1a1a2e?style=flat-square&logo=tensorflow&logoColor=1BCEDF)
-![scikit--learn](https://img.shields.io/badge/-scikit--learn-1a1a2e?style=flat-square&logo=scikitlearn&logoColor=1BCEDF)
-![YOLOv8](https://img.shields.io/badge/-YOLOv8-1a1a2e?style=flat-square&logo=ultralytics&logoColor=1BCEDF)
-![ONNX](https://img.shields.io/badge/-ONNX-1a1a2e?style=flat-square&logo=onnx&logoColor=1BCEDF)
+### 🤖 MACHINE LEARNING
+![PyTorch](https://img.shields.io/badge/PYTORCH-000000?style=flat-square&logo=pytorch&logoColor=FFB800)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-000000?style=flat-square&logo=tensorflow&logoColor=FFB800)
+![scikit--learn](https://img.shields.io/badge/SCIKIT--LEARN-000000?style=flat-square&logo=scikitlearn&logoColor=FFB800)
+![YOLOv8](https://img.shields.io/badge/YOLOV8-000000?style=flat-square&logo=ultralytics&logoColor=FFB800)
+![ONNX](https://img.shields.io/badge/ONNX-000000?style=flat-square&logo=onnx&logoColor=FFB800)
 
 </td>
 <td valign="top" width="50%">
 
-### 🛠️ Embedded & IoT
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-1a1a2e?style=flat-square&logo=raspberrypi&logoColor=1BCEDF)
-![Arduino](https://img.shields.io/badge/-Arduino-1a1a2e?style=flat-square&logo=arduino&logoColor=1BCEDF)
-![ESP32](https://img.shields.io/badge/-ESP32-1a1a2e?style=flat-square&logo=espressif&logoColor=1BCEDF)
+### 🛠️ EMBEDDED & IOT
+![Raspberry Pi](https://img.shields.io/badge/RASPBERRY_PI-000000?style=flat-square&logo=raspberrypi&logoColor=FFB800)
+![Arduino](https://img.shields.io/badge/ARDUINO-000000?style=flat-square&logo=arduino&logoColor=FFB800)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=FFB800)
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-### 🌍 Geospatial
-![Google Earth Engine](https://img.shields.io/badge/-Earth_Engine-1a1a2e?style=flat-square&logo=googleearth&logoColor=1BCEDF)
-![QGIS](https://img.shields.io/badge/-QGIS-1a1a2e?style=flat-square&logo=qgis&logoColor=1BCEDF)
+### 🌍 GEOSPATIAL
+![Google Earth Engine](https://img.shields.io/badge/EARTH_ENGINE-000000?style=flat-square&logo=googleearth&logoColor=FFB800)
+![QGIS](https://img.shields.io/badge/QGIS-000000?style=flat-square&logo=qgis&logoColor=FFB800)
 
 </td>
 <td valign="top" width="50%">
 
-### ⚙️ Backend & Tools
-![Flask](https://img.shields.io/badge/-Flask-1a1a2e?style=flat-square&logo=flask&logoColor=1BCEDF)
-![Docker](https://img.shields.io/badge/-Docker-1a1a2e?style=flat-square&logo=docker&logoColor=1BCEDF)
-![Git](https://img.shields.io/badge/-Git-1a1a2e?style=flat-square&logo=git&logoColor=1BCEDF)
-![LaTeX](https://img.shields.io/badge/-LaTeX-1a1a2e?style=flat-square&logo=latex&logoColor=1BCEDF)
+### ⚙️ BACKEND & TOOLS
+![Flask](https://img.shields.io/badge/FLASK-000000?style=flat-square&logo=flask&logoColor=FFB800)
+![Docker](https://img.shields.io/badge/DOCKER-000000?style=flat-square&logo=docker&logoColor=FFB800)
+![Git](https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=FFB800)
+![LaTeX](https://img.shields.io/badge/LATEX-000000?style=flat-square&logo=latex&logoColor=FFB800)
 
 </td>
 </tr>
@@ -86,20 +84,20 @@ currently: Exploring intelligent systems at the intersection of AI and hardware
 
 <br>
 
-## 📊 GitHub Analytics
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=satwik-shreshth&show_icons=true&hide_border=true&theme=radical&bg_color=1a1a2e&title_color=1BCEDF&icon_color=1BCEDF&text_color=c9d1d9" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwik-shreshth&layout=compact&hide_border=true&theme=radical&bg_color=1a1a2e&title_color=1BCEDF&text_color=c9d1d9" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=satwik-shreshth&show_icons=true&hide_border=true&theme=gruvbox&bg_color=000000&title_color=FFB800&icon_color=FFB800&text_color=e0e0e0" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwik-shreshth&layout=compact&hide_border=true&theme=gruvbox&bg_color=000000&title_color=FFB800&text_color=e0e0e0" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=satwik-shreshth&hide_border=true&theme=dark&background=1a1a2e&stroke=1BCEDF&ring=1BCEDF&fire=1BCEDF&currStreakLabel=1BCEDF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=satwik-shreshth&hide_border=true&background=000000&stroke=FFB800&ring=FFB800&fire=FFB800&currStreakLabel=FFB800&sideLabels=e0e0e0&currStreakNum=e0e0e0&sideNums=e0e0e0&dates=e0e0e0" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satwik-shreshth&theme=react-dark&bg_color=1a1a2e&color=1BCEDF&line=1BCEDF&point=ffffff&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satwik-shreshth&bg_color=000000&color=FFB800&line=FFB800&point=ffffff&hide_border=true" />
 
 </div>
 
@@ -107,14 +105,14 @@ currently: Exploring intelligent systems at the intersection of AI and hardware
 
 <div align="center">
 
-### 🔗 Let's Connect
+### 🔗 LET'S CONNECT
 
-<a href="https://www.linkedin.com/in/satwik-shreshth-5310372b7/"><img src="https://img.shields.io/badge/-Connect-1BCEDF?style=for-the-badge&logo=linkedin&logoColor=1a1a2e" /></a>
-<a href="https://satwik-shreshth.github.io/"><img src="https://img.shields.io/badge/-Portfolio-1BCEDF?style=for-the-badge&logo=googlechrome&logoColor=1a1a2e" /></a>
-<a href="mailto:satwikshreshth2002@gmail.com"><img src="https://img.shields.io/badge/-Email-1BCEDF?style=for-the-badge&logo=gmail&logoColor=1a1a2e" /></a>
+<a href="https://www.linkedin.com/in/satwik-shreshth-5310372b7/"><img src="https://img.shields.io/badge/CONNECT-FFB800?style=for-the-badge&logo=linkedin&logoColor=000000" /></a>
+<a href="https://satwik-shreshth.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-FFB800?style=for-the-badge&logo=googlechrome&logoColor=000000" /></a>
+<a href="mailto:satwikshreshth2002@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FFB800?style=for-the-badge&logo=gmail&logoColor=000000" /></a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B247A,50:1BCEDF,100:5B247A&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
 
 </div>
