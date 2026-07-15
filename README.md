@@ -107,9 +107,12 @@ currently: Exploring intelligent systems at the intersection of AI and hardware
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/satwik-shreshth/satwik-shreshth/output/github-contribution-grid-snake.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satwik-shreshth/satwik-shreshth/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/satwik-shreshth/satwik-shreshth/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
-<sub>Animated contribution snake — generated via <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action. Add the workflow to your profile repo once and this animates automatically every day.</sub>
+<sub>Animated contribution snake — generated via <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action. Runs automatically once a day.</sub>
 
 </div>
 
