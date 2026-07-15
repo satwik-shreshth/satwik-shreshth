@@ -1,69 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=200&section=header&text=Satwik%20Shreshth&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20Researcher%20%7C%20Embedded%20Systems%20%7C%20Geospatial%20AI&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B247A,50:1BCEDF,100:5B247A&height=220&section=header&text=Satwik%20Shreshth&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%7C%20Edge%20AI%20%7C%20Embedded%20Systems%20%7C%20Geospatial%20AI&descAlignY=55&descSize=17" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Machine+Learning+%2B+Embedded+Systems;Edge+AI+%26+Computer+Vision;Geospatial+Remote+Sensing;PhD+Aspirant+%7C+UGC-NET+Qualified)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=1000&color=1BCEDF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems;Deep+Learning+%2B+Computer+Vision;Robotics+%26+Embedded+Engineering;Remote+Sensing+%2B+Geospatial+AI)](https://git.io/typing-svg)
 
-<a href="https://satwik-shreshth.github.io/"><img src="https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" /></a>
-<a href="https://www.linkedin.com/in/satwik-shreshth-5310372b7/"><img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
-<a href="mailto:satwikshreshth2002@gmail.com"><img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
-<a href="https://www.kaggle.com/satwikshreshth01"><img src="https://img.shields.io/badge/Kaggle-0F2027?style=for-the-badge&logo=kaggle&logoColor=38BDF8" /></a>
-<a href="https://huggingface.co/satwikshreshth1"><img src="https://img.shields.io/badge/Hugging_Face-0F2027?style=for-the-badge&logo=huggingface&logoColor=38BDF8" /></a>
+<a href="https://satwik-shreshth.github.io/"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=1BCEDF" /></a>
+<a href="https://www.linkedin.com/in/satwik-shreshth-5310372b7/"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=1BCEDF" /></a>
+<a href="mailto:satwikshreshth2002@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=1BCEDF" /></a>
+<a href="https://www.kaggle.com/satwikshreshth01"><img src="https://img.shields.io/badge/Kaggle-1a1a2e?style=for-the-badge&logo=kaggle&logoColor=1BCEDF" /></a>
+<a href="https://huggingface.co/satwikshreshth1"><img src="https://img.shields.io/badge/Hugging_Face-1a1a2e?style=for-the-badge&logo=huggingface&logoColor=1BCEDF" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=satwik-shreshth&label=Profile%20Views&color=1BCEDF&style=flat-square" />
 
 </div>
 
 <br>
 
-## About
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=1BCEDF&section=footer" width="100%"/>
 
-I'm an MCA graduate from **Sikkim University**, working at the intersection of **machine learning, edge AI, embedded systems, and geospatial remote sensing**. My research spans autonomous robotics, satellite image classification, medical imaging, and resource-constrained deep learning.
+## ⚡ About Me
 
-I've qualified **UGC-NET (Computer Science & Applications)** and I'm currently pursuing **PhD admission** at Indian research institutions, alongside independent research projects released on GitHub, Kaggle, and Hugging Face.
+```yaml
+name: Satwik Shreshth
+role: ML Engineer & Researcher
+focus:
+  - Machine Learning & Computer Vision
+  - Embedded Systems & Robotics
+  - Geospatial Remote Sensing & GIS
+  - Edge AI Deployment (ONNX, TinyML)
+currently: Exploring intelligent systems at the intersection of AI and hardware
+```
 
 <br>
 
-## Featured Work
+## 🧠 Tech Stack
 
-<table>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,pytorch,tensorflow,sklearn,opencv,flask,docker,git,github,raspberrypi,arduino,latex&theme=dark" />
+
+</div>
+
+<br>
+
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-**Autonomous Dual-Pi Environmental Robot**
-MCA dissertation project — YOLOv8n-seg path detection, PID control (Ziegler–Nichols tuned), Flask REST API with live MJPEG streaming, paired with an air-quality sensing unit.
+### 🤖 Machine Learning
+![PyTorch](https://img.shields.io/badge/-PyTorch-1a1a2e?style=flat-square&logo=pytorch&logoColor=1BCEDF)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-1a1a2e?style=flat-square&logo=tensorflow&logoColor=1BCEDF)
+![scikit--learn](https://img.shields.io/badge/-scikit--learn-1a1a2e?style=flat-square&logo=scikitlearn&logoColor=1BCEDF)
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-1a1a2e?style=flat-square&logo=ultralytics&logoColor=1BCEDF)
+![ONNX](https://img.shields.io/badge/-ONNX-1a1a2e?style=flat-square&logo=onnx&logoColor=1BCEDF)
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-**East Sikkim LULC Benchmark**
-22-model land-use/land-cover classification on Sentinel-1/2 + SRTM data. Random Forest topped the benchmark at 93.44% OA, Kappa 0.9206. Published on GitHub & Hugging Face.
+### 🛠️ Embedded & IoT
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-1a1a2e?style=flat-square&logo=raspberrypi&logoColor=1BCEDF)
+![Arduino](https://img.shields.io/badge/-Arduino-1a1a2e?style=flat-square&logo=arduino&logoColor=1BCEDF)
+![ESP32](https://img.shields.io/badge/-ESP32-1a1a2e?style=flat-square&logo=espressif&logoColor=1BCEDF)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-**SAR Flood Segmentation (U-Net)**
-BCE + Dice loss segmentation pipeline on disk-based satellite image patches, trained across dual T4 GPUs.
-
-</td>
-<td width="50%" valign="top">
-
-**RSNA Pneumonia Detection**
-EfficientNet-B3 classifier with Grad-CAM validated against radiologist bounding boxes — a five-notebook pipeline from data prep to clinical reporting.
+### 🌍 Geospatial
+![Google Earth Engine](https://img.shields.io/badge/-Earth_Engine-1a1a2e?style=flat-square&logo=googleearth&logoColor=1BCEDF)
+![QGIS](https://img.shields.io/badge/-QGIS-1a1a2e?style=flat-square&logo=qgis&logoColor=1BCEDF)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-**TrustMedX**
-Clinical decision support system with uncertainty quantification and RAG-based explanation synthesis, deployed as a FastAPI service on Hugging Face Spaces.
-
-</td>
-<td width="50%" valign="top">
-
-**Tripathagamini-S Robot Series**
-Four-generation line-following robot progressing from camera-based navigation to hybrid ML + PID control at 100 Hz.
+### ⚙️ Backend & Tools
+![Flask](https://img.shields.io/badge/-Flask-1a1a2e?style=flat-square&logo=flask&logoColor=1BCEDF)
+![Docker](https://img.shields.io/badge/-Docker-1a1a2e?style=flat-square&logo=docker&logoColor=1BCEDF)
+![Git](https://img.shields.io/badge/-Git-1a1a2e?style=flat-square&logo=git&logoColor=1BCEDF)
+![LaTeX](https://img.shields.io/badge/-LaTeX-1a1a2e?style=flat-square&logo=latex&logoColor=1BCEDF)
 
 </td>
 </tr>
@@ -71,71 +86,35 @@ Four-generation line-following robot progressing from camera-based navigation to
 
 <br>
 
-## Tech Stack
+## 📊 GitHub Analytics
 
 <div align="center">
 
-**Languages & Core**
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=satwik-shreshth&show_icons=true&hide_border=true&theme=radical&bg_color=1a1a2e&title_color=1BCEDF&icon_color=1BCEDF&text_color=c9d1d9" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwik-shreshth&layout=compact&hide_border=true&theme=radical&bg_color=1a1a2e&title_color=1BCEDF&text_color=c9d1d9" />
 
-![Python](https://img.shields.io/badge/Python-0F2027?style=flat-square&logo=python&logoColor=38BDF8)
-![C++](https://img.shields.io/badge/C++-0F2027?style=flat-square&logo=cplusplus&logoColor=38BDF8)
-![C](https://img.shields.io/badge/C-0F2027?style=flat-square&logo=c&logoColor=38BDF8)
-![Java](https://img.shields.io/badge/Java-0F2027?style=flat-square&logo=openjdk&logoColor=38BDF8)
+<br>
 
-**Machine Learning & Vision**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=satwik-shreshth&hide_border=true&theme=dark&background=1a1a2e&stroke=1BCEDF&ring=1BCEDF&fire=1BCEDF&currStreakLabel=1BCEDF" />
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0F2027?style=flat-square&logo=pytorch&logoColor=38BDF8)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0F2027?style=flat-square&logo=tensorflow&logoColor=38BDF8)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-0F2027?style=flat-square&logo=scikitlearn&logoColor=38BDF8)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-0F2027?style=flat-square&logo=ultralytics&logoColor=38BDF8)
-![ONNX](https://img.shields.io/badge/ONNX-0F2027?style=flat-square&logo=onnx&logoColor=38BDF8)
+<br>
 
-**Embedded & IoT**
-
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0F2027?style=flat-square&logo=raspberrypi&logoColor=38BDF8)
-![Arduino](https://img.shields.io/badge/Arduino-0F2027?style=flat-square&logo=arduino&logoColor=38BDF8)
-![ESP32](https://img.shields.io/badge/ESP32-0F2027?style=flat-square&logo=espressif&logoColor=38BDF8)
-
-**Geospatial**
-
-![Google Earth Engine](https://img.shields.io/badge/Earth_Engine-0F2027?style=flat-square&logo=googleearth&logoColor=38BDF8)
-![QGIS](https://img.shields.io/badge/QGIS-0F2027?style=flat-square&logo=qgis&logoColor=38BDF8)
-
-**Backend & Tools**
-
-![Flask](https://img.shields.io/badge/Flask-0F2027?style=flat-square&logo=flask&logoColor=38BDF8)
-![Docker](https://img.shields.io/badge/Docker-0F2027?style=flat-square&logo=docker&logoColor=38BDF8)
-![Git](https://img.shields.io/badge/Git-0F2027?style=flat-square&logo=git&logoColor=38BDF8)
-![LaTeX](https://img.shields.io/badge/LaTeX-0F2027?style=flat-square&logo=latex&logoColor=38BDF8)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satwik-shreshth&theme=react-dark&bg_color=1a1a2e&color=1BCEDF&line=1BCEDF&point=ffffff&hide_border=true" />
 
 </div>
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=satwik-shreshth&show_icons=true&hide_border=true&theme=synthwave&bg_color=0F2027&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwik-shreshth&layout=compact&hide_border=true&theme=synthwave&bg_color=0F2027&title_color=38BDF8&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=satwik-shreshth&hide_border=true&theme=dark&background=0F2027&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-</div>
-
-<br>
-
-## Research Background
-
-- MCA Dissertation research conducted at **CSIR-CMERI, Durgapur**
-- Remote Sensing & GIS training via the **India Space Academy** Summer Training Programme
-- UGC-NET qualified in Computer Science & Applications — eligible for PhD & Assistant Professorship
-- Actively pursuing PhD admission (target: IIT Guwahati CSE, backup: BHU), preparing for GATE
-
-<br>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+### 🔗 Let's Connect
+
+<a href="https://www.linkedin.com/in/satwik-shreshth-5310372b7/"><img src="https://img.shields.io/badge/-Connect-1BCEDF?style=for-the-badge&logo=linkedin&logoColor=1a1a2e" /></a>
+<a href="https://satwik-shreshth.github.io/"><img src="https://img.shields.io/badge/-Portfolio-1BCEDF?style=for-the-badge&logo=googlechrome&logoColor=1a1a2e" /></a>
+<a href="mailto:satwikshreshth2002@gmail.com"><img src="https://img.shields.io/badge/-Email-1BCEDF?style=for-the-badge&logo=gmail&logoColor=1a1a2e" /></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B247A,50:1BCEDF,100:5B247A&height=120&section=footer" width="100%"/>
 
 </div>
